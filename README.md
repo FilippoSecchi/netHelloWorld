@@ -3,6 +3,7 @@
 
 A basic C# script that ask for name and respond with name + date
 
+# How to
 Open Program.cs to see C# code
 
 ------------------------------
